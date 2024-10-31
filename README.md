@@ -1,14 +1,14 @@
 # 🌏 English to Tamil Translator App
 
 ![Tamil Translator Banner](screenshots/banner.png)
-<!-- Add your banner image in a screenshots folder -->
+
 
 ## 📝 Description
 
 A powerful Streamlit-based application that provides English to Tamil translation with two specialized modes: normal translation and contextual translation. Built using the Groq API and Llama 3.2 model for accurate translations.
 
 ![App Demo](screenshots/main-interface.png)
-<!-- Add a screenshot of your main interface -->
+
 
 ## ✨ Features
 
